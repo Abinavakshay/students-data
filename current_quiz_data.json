@@ -1,0 +1,102 @@
+[
+    {
+        "quiz_id": 101,
+        "user_id": 1,
+        "question_id": 1,
+        "topic": "Science",
+        "difficulty_level": "Hard",
+        "selected_option_id": 1,
+        "correct_option_id": 3,
+        "is_correct": false
+    },
+    {
+        "quiz_id": 101,
+        "user_id": 1,
+        "question_id": 2,
+        "topic": "Literature",
+        "difficulty_level": "Easy",
+        "selected_option_id": 1,
+        "correct_option_id": 4,
+        "is_correct": false
+    },
+    {
+        "quiz_id": 101,
+        "user_id": 1,
+        "question_id": 3,
+        "topic": "Mathematics",
+        "difficulty_level": "Easy",
+        "selected_option_id": 3,
+        "correct_option_id": 2,
+        "is_correct": false
+    },
+    {
+        "quiz_id": 101,
+        "user_id": 1,
+        "question_id": 4,
+        "topic": "Science",
+        "difficulty_level": "Easy",
+        "selected_option_id": 4,
+        "correct_option_id": 3,
+        "is_correct": false
+    },
+    {
+        "quiz_id": 101,
+        "user_id": 1,
+        "question_id": 5,
+        "topic": "History",
+        "difficulty_level": "Easy",
+        "selected_option_id": 1,
+        "correct_option_id": 2,
+        "is_correct": false
+    },
+    {
+        "quiz_id": 101,
+        "user_id": 1,
+        "question_id": 6,
+        "topic": "Mathematics",
+        "difficulty_level": "Medium",
+        "selected_option_id": 1,
+        "correct_option_id": 4,
+        "is_correct": false
+    },
+    {
+        "quiz_id": 101,
+        "user_id": 1,
+        "question_id": 7,
+        "topic": "Literature",
+        "difficulty_level": "Medium",
+        "selected_option_id": 2,
+        "correct_option_id": 4,
+        "is_correct": false
+    },
+    {
+        "quiz_id": 101,
+        "user_id": 1,
+        "question_id": 8,
+        "topic": "Geography",
+        "difficulty_level": "Hard",
+        "selected_option_id": 3,
+        "correct_option_id": 2,
+        "is_correct": false
+    },
+    {
+        "quiz_id": 101,
+        "user_id": 1,
+        "question_id": 9,
+        "topic": "History",
+        "difficulty_level": "Medium",
+        "selected_option_id": 3,
+        "correct_option_id": 1,
+        "is_correct": false
+    },
+    {
+        "quiz_id": 101,
+        "user_id": 1,
+        "question_id": 10,
+        "topic": "Science",
+        "difficulty_level": "Easy",
+        "selected_option_id": 2,
+        "correct_option_id": 1,
+        "is_correct": false
+    }
+]
